@@ -1,4 +1,4 @@
-package com.example.netflix.demoeurika;
+package com.example.netflix.seconddemoservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class DemoEurikaApplicationTests {
+public class SecondDemoServiceApplicationTests {
 
 	@Test
 	public void contextLoads() {

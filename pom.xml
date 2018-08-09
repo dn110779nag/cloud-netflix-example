@@ -9,6 +9,7 @@
         <module>demo-eurika</module>
         <module>demo-service</module>
         <module>demo-zuul</module>
+        <module>second-demo-service</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
