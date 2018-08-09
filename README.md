@@ -19,3 +19,9 @@ To call service via zuul use link http://localhost:8083/service1/api/v1/hello .
 
 To see information about eureka runtime use link http://localhost:8081/ . 
 Information about registered services is available at http://localhost:8081/eureka/apps
+
+
+second step
+add second service
+add filter to zuul, if http://localhost:8083/service1/api/v1/hello?sample=1 
+then it be routed to second service
